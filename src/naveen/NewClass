@@ -1,0 +1,11 @@
+package naveen;
+
+public class NewClass {
+	
+	int a = 90;
+	
+	void demo() {
+		System.out.println("yyy");
+	}
+
+}
