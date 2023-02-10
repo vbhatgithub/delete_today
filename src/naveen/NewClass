@@ -3,7 +3,7 @@ package naveen;
 public class NewClass {
 	
 	int a = 90;
-	
+	String s = "vini";
 	void demo() {
 		System.out.println("yyy");
 	}
